@@ -1,0 +1,13 @@
+{
+  "name": "pdf-report-service",
+  "version": "1.0.0",
+  "description": "PDF report generator for Mental Diagnostics Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdfmake": "^0.2.10"
+  }
+}
